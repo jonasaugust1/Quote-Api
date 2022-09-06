@@ -5,11 +5,11 @@ This is a challenge project set as part of the Codecademy Backend Engineer caree
 
 ## Technologies
 
-Node and Node Package Manager/n
-Git & GitHub/n
-Express/n
+Node and Node Package Manager\n
+Git & GitHub\n
+Express
 
 ## Languages
 
-JavaScript/n
+JavaScript\n
 Features
